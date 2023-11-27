@@ -1,0 +1,20 @@
+.navbar{
+    background-color: rgb(134, 209, 132);
+    gap: 40px;
+    display: flex;
+    width: 190vh;
+   
+    padding: 20px  80px;
+  
+    
+}
+.footer{
+    background-color: darkolivegreen;
+}
+.footer ul li{
+    list-style: none;
+    color: azure;
+}
+h3{
+    color: azure;
+}
